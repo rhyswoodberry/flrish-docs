@@ -136,15 +136,24 @@ A marketplace-community that is solely for indie developers or aspiring develope
 
 ## Style Guide
 
+**Logo**
+
+![flrish Logo](./)
+
 **Colour Palette**
 
 ![Colour palette](./flrish-colour-palette.png)
 
 **Fonts**
 
+*Headings font* 
 ![Heading font](./flrish-headings.png)
+Oleo Script conveys a fun and energetic style, which fits with the brand of the site.
 
+
+*Main text font*
 ![Main font](./flrish-main.png)
+Nunito Sans is a modern, versitile font with several styles availible. It is easily legible on digital devices.
 
 ___
 

@@ -133,3 +133,18 @@ A marketplace-community that is solely for indie developers or aspiring develope
 * And the transaction should charge me the amount I specified
 
 ---
+
+## Style Guide
+
+**Colour Palette**
+
+
+
+**Fonts**
+
+
+
+___
+
+## Workflow
+

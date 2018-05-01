@@ -138,11 +138,13 @@ A marketplace-community that is solely for indie developers or aspiring develope
 
 **Colour Palette**
 
-
+![Colour palette](./)
 
 **Fonts**
 
+![Heading font](./)
 
+![Main font](./)
 
 ___
 

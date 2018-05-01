@@ -30,6 +30,76 @@ A marketplace-community that is solely for indie developers or aspiring develope
 
 ## Detailed User Stories
 
+*Customers should be able to edit their details*
+
+**Feature:** Edit customer profile
+
+* As a customer
+* I want to be able to edit my profile information
+* So I can keep my information up to date
+
+**Scenario:** Customer edits profile
+
+* Given that I am a customer who is logged in
+* When I go to view my profile information
+* I should be able to edit the differnt fields by clicking 'edit'
+* Then I should be able to click 'update'
+* And my new information should be saved
+
+---
+
+*User should be able to search games by a particular developer without signing up or logging in*
+
+**Feature:** Search games by developer
+
+* As a user or potential user
+* I would like to search for games by a developer
+* Because I want to see what other games a certain developer has released
+
+**Scenario:** Someone searches for a game
+
+* Given I am a user who is either logged on or not logged
+* When I type the name of a game developer in the search bar
+* And click the search button
+* I should see all the games uploaded by that developer
+
+---
+
+*Developers should be able to upload an image or images to better describe their game to customers*
+
+**Feature:** Image upload for game submissions
+
+* As a developer
+* I want to add images to my game description
+* So that my game descriptions are as acurate as possible for customers
+
+**Scenario:** Developer uploads a game
+
+* Given that I am a logged on developer
+* When I am creating a new game upload
+* I should be able to select an image from my local decice to upload
+* And when I click the 'upload' button
+* The image should appear on the game's store page
+
+---
+
+*User should be able to view the homepage and browse games without logging into an account*
+
+**Feature:** Homepage and product browsing enabled without login
+
+* As a user
+* I want to view content on the site without logging in or signing up
+* So that I can share the website with others who might be interested but don't want to commit to signing up yet
+
+**Scenario:** User that is not logged in opens up homepage or browses games
+
+* Given that I am a user who isn't logged in
+* When I visit the site
+* I want to see the homepage
+* And browse all games
+
+---
+
 *Developers should be able to set a minimum price.*
 
 **Feature:** Set a minimum price
@@ -61,41 +131,5 @@ A marketplace-community that is solely for indie developers or aspiring develope
 * I should be asked how much I would like to pay
 * I should be able to type in a number higher than the listed price
 * And the transaction should charge me the amount I specified
-
----
-
-*story goes here*
-
-**Feature:** 
-
-* 
-
-**Scenario:** 
-
-* 
-
----
-
-*story goes here*
-
-**Feature:** 
-
-* 
-
-**Scenario:** 
-
-* 
-
----
-
-*story goes here*
-
-**Feature:** 
-
-* 
-
-**Scenario:** 
-
-* 
 
 ---

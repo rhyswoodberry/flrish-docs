@@ -138,13 +138,13 @@ A marketplace-community that is solely for indie developers or aspiring develope
 
 **Colour Palette**
 
-![Colour palette](./)
+![Colour palette](./flrish-colour-palette.png)
 
 **Fonts**
 
-![Heading font](./)
+![Heading font](./flrish-headings.png)
 
-![Main font](./)
+![Main font](./flrish-main.png)
 
 ___
 

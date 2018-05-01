@@ -138,7 +138,7 @@ A marketplace-community that is solely for indie developers or aspiring develope
 
 **Logo**
 
-![flrish Logo](./)
+![flrish Logo](./flrish-logo.png)
 
 **Colour Palette**
 

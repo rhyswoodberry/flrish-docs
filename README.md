@@ -175,21 +175,31 @@ ___
 
 ## Wireframes
 
-![](./)
+**Homepage**
+
+![Homepage Desktop](./)
+
+![Homepage Mobile](./)
+
+**Browse Games**
+
+![Browse Games Desktop](./)
+
+![Browse Games Mobile](./)
+
+**View Game**
 
 ![](./)
 
 ![](./)
 
-![](./)
+**Profile**
 
 ![](./)
 
 ![](./)
 
-![](./)
-
-![](./)
+**Sign In**
 
 ![](./)
 

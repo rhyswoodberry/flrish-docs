@@ -159,11 +159,15 @@ ___
 
 ## Workflow
 
+A preliminary look at the workflow of my website.
+
 ![Workflow Diagram](./flrish-workflow.png)
 
 ---
 
 ## ERD
+
+MVP entity relationship diagram.
 
 ![ERD Diagram](./flrish-erd.png)
 
@@ -211,4 +215,4 @@ I used Trello to manage my project.
 
 ![](./flrish-trello-01.png)
 
-![](./)
+![](./flrish-trello-02.png)

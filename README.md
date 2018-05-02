@@ -159,3 +159,4 @@ ___
 
 ## Workflow
 
+![Workflow Diagram](./flrish-workflow.png)

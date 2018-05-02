@@ -142,7 +142,11 @@ A marketplace-community that is solely for indie developers or aspiring develope
 
 **Colour Palette**
 
+Main colours:
 ![Colour palette](./flrish-colour-palette.png)
+
+Secondary colours:
+![Secondary colour palette](./flrish-secondary-color-palette.png)
 
 **Fonts**
 
@@ -194,5 +198,9 @@ ___
 ---
 
 ## Trello
+
+I used Trello to manage my project.
+
+![](./flrish-trello-01.png)
 
 ![](./)

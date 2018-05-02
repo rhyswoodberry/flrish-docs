@@ -169,7 +169,7 @@ ___
 
 ## ERD
 
-![ERD Diagram](./)
+![ERD Diagram](./flrish-erd.png)
 
 ---
 

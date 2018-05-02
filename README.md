@@ -175,6 +175,8 @@ ___
 
 ## Wireframes
 
+I used Figma to desgin the wireframes for the website.
+
 **Homepage**
 
 ![Homepage Desktop](./)
@@ -189,21 +191,21 @@ ___
 
 **View Game**
 
-![](./)
+![View Game Desktop](./)
 
-![](./)
+![View Game Mobile](./)
 
 **Profile**
 
-![](./)
+![Profile Desktop](./)
 
-![](./)
+![Profile Mobile](./)
 
 **Sign In**
 
-![](./)
+![Sign In Desktop](./)
 
-![](./)
+![Sign In Mobile](./)
 
 ---
 

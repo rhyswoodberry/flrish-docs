@@ -160,3 +160,12 @@ ___
 ## Workflow
 
 ![Workflow Diagram](./flrish-workflow.png)
+
+---
+
+## ERD
+
+![ERD Diagram](./)
+
+---
+

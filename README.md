@@ -206,33 +206,23 @@ I used Figma to desgin the wireframes for the website.
 
 **Homepage**
 
-![Homepage Desktop](./)
-
-![Homepage Mobile](./)
+![Homepage](./)
 
 **Browse Games**
 
-![Browse Games Desktop](./)
-
-![Browse Games Mobile](./)
+![Browse Games](./)
 
 **View Game**
 
-![View Game Desktop](./)
-
-![View Game Mobile](./)
+![View Game](./)
 
 **Profile**
 
-![Profile Desktop](./)
-
-![Profile Mobile](./)
+![Profile](./)
 
 **Sign In**
 
-![Sign In Desktop](./)
-
-![Sign In Mobile](./)
+![Sign In](./)
 
 ---
 

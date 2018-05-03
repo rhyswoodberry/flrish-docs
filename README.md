@@ -1,4 +1,7 @@
 # flrish
+
+## What is flrish?
+
 ##### Flourish (verb)
   1. Grow or develop in a healthy or vigorous way, especially as the result of a particularly congenial environment.
   2. Develop rapidly and successfully.
@@ -8,6 +11,30 @@
 It is designed to be a place where developers and customers can both have the best experience when it comes to buying and selling video games.
 
 It is a community of like-minded, and passionate people to come together. For developers, it is a place where they can get a foot in the door and start selling their work. For customers, it is a place where they can support the things they love and help developers to grow.
+
+---
+
+# Table of Contents
+
+1. [What is flrish?](#what-is-flrish-?)
+
+1. [Problem](#the-problem)
+
+2. [Solution](#the-solution)
+
+3. [User Stories](#user-stories)
+
+4. [Detailed User Stories](#detailed-user-stories)
+
+5. [Style Guide](#style-guide)
+
+6. [Workflow](#workflow)
+
+7. [ERD](#erd)
+
+8. [Wireframes](#wireframes)
+
+9. [Project Management](#project-management)
 
 ---
 
@@ -209,9 +236,9 @@ I used Figma to desgin the wireframes for the website.
 
 ---
 
-## Trello
+## Project Management
 
-I used Trello to manage my project.
+I used **Trello** to manage my project.
 
 ![](./flrish-trello-01.png)
 

@@ -1,19 +1,5 @@
 # flrish
 
-## What is flrish?
-
-##### Flourish (verb)
-  1. Grow or develop in a healthy or vigorous way, especially as the result of a particularly congenial environment.
-  2. Develop rapidly and successfully.
-
-**Flrish** is a marketplace for indie game developers to upload and sell their games to a passionate community of fans. 
-
-It is designed to be a place where developers and customers can both have the best experience when it comes to buying and selling video games.
-
-It is a community of like-minded, and passionate people to come together. For developers, it is a place where they can get a foot in the door and start selling their work. For customers, it is a place where they can support the things they love and help developers to grow.
-
----
-
 # Table of Contents
 
 1. [What is flrish?](#what-is-flrish-?)
@@ -35,6 +21,20 @@ It is a community of like-minded, and passionate people to come together. For de
 8. [Wireframes](#wireframes)
 
 9. [Project Management](#project-management)
+
+---
+
+## What is *flrish*?
+
+##### Flourish (verb)
+  1. Grow or develop in a healthy or vigorous way, especially as the result of a particularly congenial environment.
+  2. Develop rapidly and successfully.
+
+**Flrish** is a marketplace for indie game developers to upload and sell their games to a passionate community of fans. 
+
+It is designed to be a place where developers and customers can both have the best experience when it comes to buying and selling video games.
+
+It is a community of like-minded, and passionate people to come together. For developers, it is a place where they can get a foot in the door and start selling their work. For customers, it is a place where they can support the things they love and help developers to grow.
 
 ---
 

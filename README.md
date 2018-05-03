@@ -1,8 +1,8 @@
 # flrish
 
-Website URL: 
+Website URL: https://flrish.herokuapp.com/
 
-GitHub Repo:
+GitHub Repo: https://github.com/rhyswoodberry/flrish
 
 # Table of Contents
 
@@ -173,7 +173,7 @@ A marketplace-community that is solely for indie developers or aspiring develope
 
 **Colour Palette**
 
-![Colour palette](/read_me_images/flrish-colour-palette.png)
+![Colour palette](./read_me_images/flrish-colour-palette.png)
 
 **Fonts**
 
@@ -207,6 +207,8 @@ MVP entity relationship diagram.
 ## Wireframes
 
 I used Figma to desgin the wireframes for the website.
+
+![Figma](./read_me_images/flrish-figma.png)
 
 **Homepage**
 
